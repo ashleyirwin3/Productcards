@@ -1,12 +1,29 @@
 h2 {
 	text-align: center;
+	border-width: 1px;
+	border-color: lightgray;
+	border-style: dotted;
 }
 
 article {
 	width: 30%;
+	border-width: 1px;
+	border-color: lightblue;
+	border-style: solid;
+
 }
 
 img {
-	max
+	height: 100px;
+	display: block;
+	margin: auto;
+}
 
+div {
+	font-weight: bold;
+}
+
+element {
+	color: yellow;
+	background-color: gray;
 }
