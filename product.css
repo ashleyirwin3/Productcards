@@ -24,6 +24,10 @@ div {
 }
 
 element {
+	width: 100%;
+	display: block;
 	color: yellow;
-	background-color: gray;
+	background-color: darkgrey;
+	white-space: nowrap;
 }
+
