@@ -22,3 +22,8 @@ img {
 div {
 	font-weight: bold;
 }
+
+element {
+	color: yellow;
+	background-color: gray;
+}
