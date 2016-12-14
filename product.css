@@ -10,6 +10,7 @@ article {
         border-width: 1px;
         border-color: lightblue;
         border-style: solid;
+        float: left;
 
 }
 
@@ -21,6 +22,7 @@ img {
 
 div {
         font-weight: bold;
+
 }
 
 element {
